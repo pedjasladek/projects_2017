@@ -110,6 +110,37 @@ projects = Project[
 					"Prezime",
 					"RA-XXX/20YY",
 					"xxx@yyy",
+					"Jelena"
+					"Jovičić"
+					"RA-127/2014"
+					"jjovicic13@hotmail.rs"
+					0
+				),
+			]
+			Student[
+				Student(
+					"Mia"
+					"Stepanović"
+					"RA-129/2014"
+					"miastepanovic19@gmail.com"
+					0
+				),
+			]
+			Student[
+				Student(
+					"Aleksandar"
+					"Lazić"
+					"RA-104/2014"
+					"lazic.aleksandar11@gmail.com"
+					0
+				),
+			]
+			Student[
+				Student(
+					"Stefan"
+					"Vukanović"
+					"RA-210/2014"
+					"stefan.vukanovic@hotmail.com"
 					0
 				),
 			]
