@@ -182,8 +182,7 @@ projects = Project[
 	),
 	Project(
 		"Pie with Rationals",
-		40,
-		3,
+		40,		3,
 		Team(
 			Student[
 				Student(
@@ -193,7 +192,7 @@ projects = Project[
 					"xxx@yyy",
 					0
 				),
-			]
+z			]
 		),
 		Spec(
 			"""
@@ -203,7 +202,7 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+z			"https://github.com/X/Y",
 		),
 		false
 	),
@@ -241,12 +240,30 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
+					"Robert",
+					"Šandor",
+					"RA-17/2014",
+					"robert.sandor@outlook.com",
+					0
+				),Student(
+					"Filip",
+					"Dutina",
+					"RA-43/2014",
 					"xxx@yyy",
 					0
-				),
+				),Student(
+					"Aleksandar",
+					"Jurica",
+					"RA-47/2014",
+					"xxx@yyy",
+					0
+				),Student(
+					"Milan",
+					"Vidić",
+					"RA-241/2015",
+					"milan_vidic000@yahoo.com",
+					0
+				)
 			]
 		),
 		Spec(
@@ -585,4 +602,3 @@ for project in projects
 end
 
 ###############################################################################
-
