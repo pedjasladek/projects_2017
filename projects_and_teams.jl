@@ -126,10 +126,6 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
 					"Jelena"
 					"Jovičić"
 					"RA-127/2014"
@@ -233,7 +229,8 @@ projects = Project[
 	),
 	Project(
 		"Pie with Rationals",
-		40,		3,
+		40,
+		3,
 		Team(
 			Student[
 				Student(
@@ -243,7 +240,7 @@ projects = Project[
 					"xxx@yyy",
 					0
 				),
-z			]
+			]
 		),
 		Spec(
 			"""
@@ -253,7 +250,7 @@ z			]
 			]
 		),
 		Solution(
-z			"https://github.com/X/Y",
+			"https://github.com/X/Y",
 		),
 		false
 	),
@@ -296,19 +293,22 @@ z			"https://github.com/X/Y",
 					"RA-17/2014",
 					"robert.sandor@outlook.com",
 					0
-				),Student(
+				),
+				Student(
 					"Filip",
 					"Dutina",
 					"RA-43/2014",
 					"xxx@yyy",
 					0
-				),Student(
+				),
+				Student(
 					"Aleksandar",
 					"Jurica",
 					"RA-47/2014",
 					"xxx@yyy",
 					0
-				),Student(
+				),
+				Student(
 					"Milan",
 					"Vidić",
 					"RA-241/2015",
@@ -389,28 +389,28 @@ z			"https://github.com/X/Y",
 		4,
 		Team(
 			Student[
-				Student1(
+				Student(
 					"Aleksa",
 					"Corovic",
 					"RA-54/2014",
 					"aleksa.corovic@systemli.com",
 					0
 				),
-				Student2(
+				Student(
 					"Mihailo",
 					"Stojanovic",
 					"RA-26/2014",
 					"mihailo.stojanovic26@gmail.com",
 					0
 				),
-				Student3(
+				Student(
 					"Stevan",
 					"Stevic",
 					"RA-63/2014",
 					"stevan.stevic4343@gmail.com",
 					0
 				),
-				Student4(
+				Student(
 					"Marko",
 					"Dragojevic",
 					"RA-74/2014",
@@ -565,13 +565,15 @@ z			"https://github.com/X/Y",
 					"RA-237/2013",
 					"mixa4@live.com",
 					0
-				),Student(
+				),
+				Student(
 					"Ercegovcevic",
 					"Luka",
 					"RA-165/2014",
 					"erceg-95@hotmail.com",
 					0
-				),Student(
+				),
+				Student(
 					"Egelja",
 					"Maksim",
 					"RA-51/2014",
@@ -605,8 +607,6 @@ z			"https://github.com/X/Y",
 					"ironmanm72@gmail.com",
 					0
 				),
-			],
-			Student[
 				Student(
 					"Srdjan",
 					"Suvakov",
@@ -614,8 +614,6 @@ z			"https://github.com/X/Y",
 					"suvakov.srdjan@gmail.com",
 					0
 				),
-			],
-			Student[
 				Student(
 					"Stefan",
 					"Nicetin",
