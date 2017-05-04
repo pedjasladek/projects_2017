@@ -599,10 +599,28 @@ z			"https://github.com/X/Y",
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Vladimir",
+					"Lazic",
+					"RA-57/2014",
+					"ironmanm72@gmail.com",
+					0
+				),
+			],
+			Student[
+				Student(
+					"Srdjan",
+					"Suvakov",
+					"RA-174/2014",
+					"suvakov.srdjan@gmail.com",
+					0
+				),
+			],
+			Student[
+				Student(
+					"Stefan",
+					"Nicetin",
+					"RA-188/2014",
+					"niketic95@gmail.com",
 					0
 				),
 			]
