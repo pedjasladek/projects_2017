@@ -255,7 +255,7 @@ z			"https://github.com/X/Y",
 					"Aleksandar",
 					"Jurica",
 					"RA-47/2014",
-					"xxx@yyy",
+					"jurica.aleksandar@gmail.com",
 					0
 				),Student(
 					"Milan",
