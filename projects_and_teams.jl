@@ -298,7 +298,7 @@ projects = Project[
 					"Filip",
 					"Dutina",
 					"RA-43/2014",
-					"xxx@yyy",
+					"filip.dutina@gmail.com",
 					0
 				),
 				Student(
