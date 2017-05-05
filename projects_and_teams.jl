@@ -197,7 +197,8 @@ projects = Project[
 					"RA-40/2014",
 					"miroslav.radakovic23@gmail.com",
 					0
-				),Student(
+				),
+				Student(
 					"Milan",
 					"Djokic",
 					"RA-11/2014",
@@ -720,6 +721,33 @@ projects = Project[
 					"Svonja",
 					"RA-229/2014",
 					"miljanzr@yahoo.com",
+					0
+				),
+			]
+		),
+		Spec(
+			"""
+			""",
+			URL[
+				URL(""),
+			]
+		),
+		Solution(
+			"https://github.com/X/Y",
+		),
+		false
+	),
+	Project(
+		"Sudoku",
+		40,
+		4,
+		Team(
+			Student[
+				Student(
+					"Ime",
+					"Prezime",
+					"RA-XXX/20YY",
+					"xxx@yyy",
 					0
 				),
 			]
