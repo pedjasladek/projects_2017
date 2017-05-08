@@ -744,10 +744,10 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Miloš",
+					"Ivanković",
+					"RA-233/2014",
+					"ivankovicm02@gmail.com",
 					0
 				),
 			]
