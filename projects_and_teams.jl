@@ -531,7 +531,7 @@ projects = Project[
 				Student(
 					"Lara",
 					"Milovanovic",
-					"RA-229/2014",
+					"RA-123/2014",
 					"miljanzr@yahoo.com",
 					0
 				),
@@ -540,7 +540,7 @@ projects = Project[
 				Student(
 					"Lazar",
 					"Svonja",
-					"RA-229/2014",
+					"RA-197/2014",
 					"miljanzr@yahoo.com",
 					0
 				),
