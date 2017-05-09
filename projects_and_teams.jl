@@ -85,7 +85,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
@@ -126,7 +126,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
@@ -174,7 +174,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/Una13/super_mario"),
 			]
 		),
 		Solution(
@@ -236,7 +236,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -263,7 +263,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -338,7 +338,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/boza94/pizeo_buzz"),
 			]
 		),
 		Solution(
@@ -379,7 +379,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -468,7 +468,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/LPRS2/lab5"),
 			]
 		),
 		Solution(
@@ -529,7 +529,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -570,7 +570,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -618,7 +618,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
@@ -659,7 +659,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/RELJEF/battle_city_fpga"),
 			]
 		),
 		Solution(
@@ -700,7 +700,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -748,7 +748,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -782,7 +782,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
