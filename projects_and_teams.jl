@@ -58,9 +58,6 @@ projects = Project[
 					"banovic@protonmail.ch",
 					0
 				),
-			]
-			
-			Student[
 				Student(
 					"Lana",
 					"Salai",
@@ -68,9 +65,6 @@ projects = Project[
 					"lanadjukanovic@gmail.com",
 					0
 				),
-			]
-			
-			Student[
 				Student(
 					"Ksenija",
 					"Popov",
@@ -78,9 +72,6 @@ projects = Project[
 					"ksenija.popov@gmail.com",
 					0
 				),
-			]
-			
-			Student[
 				Student(
 					"Nemanja",
 					"Lazukic",
@@ -89,8 +80,6 @@ projects = Project[
 					0
 				),
 			]
-			
-			
 		),
 		Spec(
 			"""
