@@ -356,12 +356,26 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
-					0
-				),
+					"Marko",
+ +					"Matic",
+ +					"RA-87/2014",
+ +					"maticmarko95@yahoo.com",
+ +					0
+ +				),
+ +				Student(
+ +					"Damir",
+ +					"Letic",
+ +					"RA-232/2013",
+ +					"cenejac94@gmail.com",
+ +					0
+ +				),
+ +				Student(
+ +					"Maja",
+ +					"Zerajic",
+ +					"RA-101/2013",
+ +					"majazerajic94@gmail.com",
+  					0
+  				),
 			]
 		),
 		Spec(
