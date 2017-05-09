@@ -70,6 +70,26 @@ projects = Project[
 				),
 			]
 			
+			Student[
+				Student(
+					"Ksenija",
+					"Popov",
+					"RA-151/2014",
+					"ksenija.popov@gmail.com",
+					0
+				),
+			]
+			
+			Student[
+				Student(
+					"Nemanja",
+					"Lazukic",
+					"RA-228/2014",
+					"nemanjal95@hotmail.com",
+					0
+				),
+			]
+			
 			
 		),
 		Spec(
