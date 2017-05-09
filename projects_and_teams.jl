@@ -106,9 +106,6 @@ projects = Project[
 					"pedjasladek@gmail.com",
 					0
 				),
-			]
-			
-			Student[
 				Student(
 					"Stefan",
 					"Masalusić",
@@ -116,9 +113,6 @@ projects = Project[
 					"masalusicstefan@gmail.com",
 					0
 				),
-			]
-			
-			Student[
 				Student(
 					"Nedeljko",
 					"Mutlak",
@@ -153,8 +147,6 @@ projects = Project[
 					"jjovicic13@hotmail.rs"
 					0
 				),
-			]
-			Student[
 				Student(
 					"Mia"
 					"Stepanović"
@@ -162,8 +154,6 @@ projects = Project[
 					"miastepanovic19@gmail.com"
 					0
 				),
-			]
-			Student[
 				Student(
 					"Aleksandar"
 					"Lazić"
@@ -171,8 +161,6 @@ projects = Project[
 					"lazic.aleksandar11@gmail.com"
 					0
 				),
-			]
-			Student[
 				Student(
 					"Stefan"
 					"Vukanović"
@@ -733,8 +721,6 @@ projects = Project[
 					"miljanzr@yahoo.com",
 					0
 				),
-			],
-			Student[
 				Student(
 					"Milan",
 					"Trkulja",
@@ -742,8 +728,6 @@ projects = Project[
 					"milantrkulja995@gmail.com",
 					0
 				),
-			],
-			Student[
 				Student(
 					"Lara",
 					"Milovanovic",
@@ -751,8 +735,6 @@ projects = Project[
 					"miljanzr@yahoo.com",
 					0
 				),
-			],
-			Student[
 				Student(
 					"Lazar",
 					"Svonja",
@@ -787,8 +769,6 @@ projects = Project[
 					"ivankovicm02@gmail.com",
 					0
 				),
-			],
-			Student[
 				Student(
 					"Dragoljub",
 					"Gajić",
