@@ -618,7 +618,8 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
+				URL("https://github.com/Una13/super_mario"),
+				URL("https://www.spriters-resource.com/resources/sheets/24/26482.png")
 			]
 		),
 		Solution(
