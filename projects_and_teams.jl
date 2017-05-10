@@ -347,7 +347,7 @@ projects = Project[
 		false
 	),
 	Project(
-		"Pacmen",
+		"Pacman",
 		40,
 		3,
 		Team(
@@ -379,7 +379,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
@@ -749,7 +749,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
