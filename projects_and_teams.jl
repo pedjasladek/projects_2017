@@ -532,7 +532,7 @@ projects = Project[
 					"Lara",
 					"Milovanovic",
 					"RA-123/2014",
-					"miljanzr@yahoo.com",
+					"lara.milovanovic22@gmail.com",
 					0
 				),
 			],
@@ -541,7 +541,7 @@ projects = Project[
 					"Lazar",
 					"Svonja",
 					"RA-197/2014",
-					"miljanzr@yahoo.com",
+					"lazar.svonja@gmail.com",
 					0
 				),
 			]
