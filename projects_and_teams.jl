@@ -661,6 +661,7 @@ projects = Project[
 			""",
 			URL[
 				URL("https://github.com/RELJEF/battle_city_fpga"),
+				URL("http://pc.cd/lJW7")
 			]
 		),
 		Solution(
