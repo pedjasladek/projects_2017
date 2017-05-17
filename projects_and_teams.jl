@@ -209,7 +209,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MilosSubotic/FBless_2D_GPU"),
 			]
 		),
 		Solution(
@@ -429,7 +429,7 @@ projects = Project[
 		false
 	),
 	Project(
-		"CAN network – game of choice",
+		"I2C network – game of choice",
 		45,
 		4,
 		Team(
