@@ -420,7 +420,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MilosSubotic/Interpol"),
 			]
 		),
 		Solution(
