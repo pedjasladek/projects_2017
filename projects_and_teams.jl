@@ -636,7 +636,7 @@ projects = Project[
 				Student(
 					"Vuletic",
 					"Milan",
-					"RA-237/2013",
+					"RA-231/2013",
 					"mixa4@live.com",
 					0
 				),
@@ -665,7 +665,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/mixa6492/battle_city_fpga",
+			"https://www.youtube.com/watch?v=g26Tc7DwDf8",
+			"https://github.com/mixa6492/battle_city_fpga/blob/master/battle_city_design/tenkici.bit",
+			"https://github.com/mixa6492/battle_city_fpga/blob/master/LPRS2-Tenkici-Dokumentacija.doc"
 		),
 		false
 	),
