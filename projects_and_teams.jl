@@ -130,7 +130,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/pedjasladek/Skocko.git",
+			"https://www.youtube.com/watch?v=WBCmfev_4Ew",
+			"https://github.com/pedjasladek/Skocko/blob/master/skocko.bit",
+			"https://github.com/pedjasladek/Skocko/blob/master/Skocko%20dokumentacija.doc"
 		),
 		false
 	),
